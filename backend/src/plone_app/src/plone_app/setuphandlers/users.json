@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "paulo.fernando@struct.unb.br",
+      "properties": {
+        "fullname": "plone-app",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "plone-app"
+    }
+  ],
+    "team": [
+  ]
+}
